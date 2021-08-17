@@ -1,0 +1,7 @@
+%{
+  "gpx": {:hex, :gpx, "0.1.0", "9925441a036c2d6a09dec8c7ab51ce75f4234e25433231e0bd6e9b3e05999af1", [:mix], [{:sweet_xml, "~> 0.6.2", [hex: :sweet_xml, repo: "hexpm", optional: false]}], "hexpm", "d4de0c3adfc06dbdb1069e10416981ea94ca4ca7c8f294908ed0fe0f2ec23f31"},
+  "jason": {:hex, :jason, "1.2.2", "ba43e3f2709fd1aa1dce90aaabfd039d000469c05c56f0b8e31978e03fa39052", [:mix], [{:decimal, "~> 1.0 or ~> 2.0", [hex: :decimal, repo: "hexpm", optional: true]}], "hexpm", "18a228f5f0058ee183f29f9eae0805c6e59d61c3b006760668d8d18ff0d12179"},
+  "sax_map": {:hex, :sax_map, "1.0.0", "98136010f956273ccf34cc4d0c2dd5cc0de82d1447801f1c296de0c8c9c5f6ce", [:mix], [{:saxy, "~> 1.0", [hex: :saxy, repo: "hexpm", optional: false]}], "hexpm", "a76bcf14ef58b9f587f96558217ede99d11ea47e0e63ce8eb8b5ee001832adf4"},
+  "saxy": {:hex, :saxy, "1.4.0", "c7203ad20001f72eaaad07d08f82be063fa94a40924e6bb39d93d55f979abcba", [:mix], [], "hexpm", "3fe790354d3f2234ad0b5be2d99822a23fa2d4e8ccd6657c672901dac172e9a9"},
+  "sweet_xml": {:hex, :sweet_xml, "0.6.6", "fc3e91ec5dd7c787b6195757fbcf0abc670cee1e4172687b45183032221b66b8", [:mix], [], "hexpm", "2e1ec458f892ffa81f9f8386e3f35a1af6db7a7a37748a64478f13163a1f3573"},
+}
